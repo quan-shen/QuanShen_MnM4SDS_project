@@ -1,6 +1,4 @@
 
 # Project for GEOG788P MnM4SDS
 
-## Need some more time to think about the project for this course
-
-## Will update this file when I have an idea :D
+* [Initial Proposal](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/Initial%20proposal.docx)
