@@ -3,9 +3,9 @@
 ## Topic: Projection of Permanent Forest Loss by Random Forest 
 ### The files are listed chronologically
 * [Initial Proposal](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/Initial%20proposal.docx)
-* [First Project Presentation](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/788P%20Project_update.pptx)
-* [Project Presentation Update 1](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/788P%20Project_update1.pptx)
-* [Project Presentation Update 2](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/788P%20Project_update2.pptx)
+* [First Project Presentation](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/presentation/788P%20Project.pptx)
+* [Project Presentation Update 1](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/presentation/788P%20Project_update1.pptx)
+* [Project Presentation Update 2](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/presentation/788P%20Project_update2.pptx)
 * [Final Project Paper](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/final_paper.docx)
 
 ### The codes used in the final project are in the [code](https://github.com/quan-shen/QuanShen_MnM4SDS_project/tree/master/code) folder
