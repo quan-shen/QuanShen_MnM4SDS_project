@@ -8,7 +8,7 @@
 * [Project Presentation Update 2](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/788P%20Project_update2.pptx)
 * [Final Project Paper](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/final_paper.docx)
 
-### The codes used in the final project are in the [Code](https://github.com/quan-shen/QuanShen_MnM4SDS_project/tree/master/code) folder
+### The codes used in the final project are in the [code](https://github.com/quan-shen/QuanShen_MnM4SDS_project/tree/master/code) folder
 ### The codes are listed by step
 * [Step 1. Identify the permanent forest loss](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/code/Permanent%20loss.ipynb)
 * [Step 2. Create NLCD permanent forest loss rasters](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/code/NLCD_loss_rasters.ipynb)
