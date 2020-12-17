@@ -24,3 +24,14 @@
 * 1 population density file: [Population Density 2005](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/data/Pop05.tif)
 * 1 project result file: [The best projection result](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/data/projected_loss2019_7_100.tif), and 
 * 1 reference data file: [GFW forest loss by year](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/data/GFW_lossyear_2019.tif)
+
+### To Taylor:
+Hi Taylor, 
+
+Just want to express my appreciation to your teaching. I know you must hear many "I learned a lot in your class", so I don't repeat it here, but that statement is very true! This class is probably the most useful python class I took. I learned a lot of new packages (eg. PySAL) and new techniques (eg. GWR, MGWR) in this class. They are really useful because I used MGWR for my research project recently! This is definitely a great class, and I like your way of teaching. The 2 labs kind of "forced" me to review and comprehend the class materials and then, I used them in my final project!
+
+A million thanks!
+Hope you have a great winter break and happy holidays!
+
+Best wishes,
+Quan
