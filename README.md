@@ -16,3 +16,10 @@
 * [Step 4. Run regression models](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/code/GWR.ipynb)
 * [Step 5. Run random forest model](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/code/Random_Forest_PopDen.ipynb)
 * [Step 6. Assess GFW as reference data](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/code/NLCDloss_GFW.ipynb)
+
+### Some of the raster files used in random forest model are in the [data](https://github.com/quan-shen/QuanShen_MnM4SDS_project/tree/master/data) folder
+### Due to the space limit of GitHub, there are only:
+* 2 NLCD landcover files: [NLCD 2004](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/data/NLCD04.tif) and [NLCD 2006]()
+* 1 permanent loss file: [Loss between 2005 and 2006](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/data/Loss06.tif) 
+* 1 population density file: [Population Density 2005](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/data/Pop05.tif), and 
+* 1 project result file: [The best projection result](https://github.com/quan-shen/QuanShen_MnM4SDS_project/blob/master/data/projected_loss2019_7_100.tif)
